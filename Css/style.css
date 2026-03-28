@@ -53,6 +53,13 @@ button{
     margin: auto;
     padding-top: 5%;
 }
+
+.container .title{
+  font-family: "Roboto", sans-serif;
+  font-size: 34px;
+  font-weight: 600;
+  text-align: center;
+}
 /* nav bar */
 
 #navBar{
