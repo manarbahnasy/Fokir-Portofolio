@@ -127,7 +127,7 @@ button{
 #about .imageWrap img{
     float: left;
     width: 35%;
-    
+    margin-bottom: 5%;
 }
 
 #about .contentWrap{
